@@ -1,0 +1,2 @@
+
+Scenario: Verify Place has been succefully added by Add Place API's [90m# src/test/java/feature/placeValidation.feature:4[0m
